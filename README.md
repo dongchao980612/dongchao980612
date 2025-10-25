@@ -22,6 +22,7 @@
 
 [21天学会C++](https://github.com/dongchao980612/CPPin21Day)
 
+[郑莉C++代码](https://github.com/dongchao980612/ZhengLiCpp)
 
 # Qt仓库合集
 
