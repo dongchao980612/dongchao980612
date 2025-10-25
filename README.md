@@ -3,8 +3,23 @@
 
 
 # C语言仓库合集
+# 单片机代码合计
+
+[野火STM32教程](https://github.com/dongchao980612/STM32ProjectByYehuo)
+
+[正点原子STM32教程](https://github.com/dongchao980612/STM32ProjectByZDYZ)
+
+[江科电协B站STM32入门教程](https://github.com/dongchao980612/STM32ProjectByJDK)
+
+[江科电协B站51单片机](https://github.com/dongchao980612/JKD51Project)
+
+[STM32移植FreeRTOS v9.0](https://github.com/dongchao980612/FreeRTOSBasedOnSTM32)
+
 
 # C++合集
+
+[21天学会C++](https://github.com/dongchao980612/CPPin21Day)
+
 
 # Qt仓库合集
 
@@ -16,7 +31,7 @@
 
 [迅为Qt视频学习](https://github.com/dongchao980612/QtXunwei)
 
-[正点原子](https://github.com/dongchao980612/QtZdyz)
+[正点原子QT开发代码](https://github.com/dongchao980612/QtZdyz)
 
 [学益得在线课堂QT代码](https://github.com/dongchao980612/QtXyd)
 
