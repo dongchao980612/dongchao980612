@@ -5,15 +5,17 @@
 # C语言仓库合集
 # 单片机代码合计
 
-[野火STM32教程](https://github.com/dongchao980612/STM32ProjectByYehuo)
+[野火STM32教程](https://github.com/dongchao980612/STM32ProjectByYeHuo)
 
 [正点原子STM32教程](https://github.com/dongchao980612/STM32ProjectByZDYZ)
 
-[江科电协B站STM32入门教程](https://github.com/dongchao980612/STM32ProjectByJDK)
+[正点原子FreeRTOS教程](https://github.com/dongchao980612/FreeRTOSBasedOnSTM32)
 
-[江科电协B站51单片机](https://github.com/dongchao980612/JKD51Project)
+[江科电协STM32教程](https://github.com/dongchao980612/STM32ProjectByJDK)
 
-[STM32移植FreeRTOS v9.0](https://github.com/dongchao980612/FreeRTOSBasedOnSTM32)
+[江科电协51单片机](https://github.com/dongchao980612/JKD51Project)
+
+
 
 
 # C++合集
