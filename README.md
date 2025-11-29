@@ -15,8 +15,9 @@
 
 [江科电协51单片机](https://github.com/dongchao980612/JKD51Project)
 
+[STM32Cube(基础篇)](https://github.com/dongchao980612/STM32cube)
 
-
+[基于物联网的STM32单片机应用与实践](https://github.com/dongchao980612/ITE-STM32-PRJ)
 
 # C++合集
 
