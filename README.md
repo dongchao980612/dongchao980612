@@ -56,6 +56,12 @@
 
 # python语言仓库合集
 [网络编程-python](https://github.com/dongchao980612/PythonSocket)
-# java语言仓库合集
+[flask](https://github.com/dongchao980612/Zhiliao_flask)
+[豆瓣TOP250可视化](https://github.com/dongchao980612/DouBanSpider)
+
+# Java语言仓库合集
+[狂神说Java代码](https://github.com/dongchao980612/Java-kuangshenshuo)
+[狂神说Java Web代码](https://github.com/dongchao980612/JavaWeb)
 
 # Android语言仓库合集
+[安卓开发笔记](https://github.com/dongchao980612/Android-learn)
